@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhavesh-Nama
 - 👀 I’m interested in ... QA Engineer role
-- 🌱 I’m currently learning ... Manual Testing,Automation Testing, GitHub, Maven 
+- 🌱 I’m currently learning ... Manual Testing, Automation Testing, GitHub, Maven, Selenium WebDriver, Cypress.
 - 💞️ I’m looking to collaborate on ... Testing projects and Job
 - 📫 How to reach me ... https://www.linkedin.com/in/bhavesh-kumar-nama-167151174/
 
