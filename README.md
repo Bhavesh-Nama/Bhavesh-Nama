@@ -1,14 +1,14 @@
 # Hi, I'm Bhavesh Kumar Nama 👋
 
-### Senior QA Engineer | Automation Testing | AI-Powered Quality Engineering
+### Senior QA Engineer | Playwright | TypeScript | Selenium | Java | API Testing | AI-Assisted Quality Engineering
 
-I'm a QA Engineer passionate about building reliable, scalable and maintainable test automation solutions. I work across UI automation, API testing, manual testing and quality engineering, with a focus on improving software quality through automation and AI-assisted testing.
+I'm a Senior QA Engineer focused on building reliable, scalable and maintainable test automation solutions. I work across UI automation, API testing, functional testing and quality engineering, with an interest in intelligent test analysis and AI-assisted testing.
 
-- 🔭 Working on test automation frameworks using Playwright and TypeScript.
-- 🌱 Exploring AI-powered QA, intelligent test analysis and multi-agent systems.
-- 🧪 Experienced in UI automation, API testing, functional testing and regression testing.
+- 🔭 Building automation frameworks using Playwright, TypeScript and Java.
+- 🌱 Exploring AI-assisted QA, intelligent test analysis and multi-agent systems.
+- 🧪 Experienced in UI automation, API testing, regression testing and functional testing.
 - 💻 Interested in scalable automation frameworks, CI/CD and software quality engineering.
-- 🤝 Open to collaborating on automation testing and QA engineering projects.
+- 🤝 Open to collaborating on QA automation and software testing projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bhavesh-kumar-nama/).
 
 ---
@@ -20,60 +20,104 @@ I'm a QA Engineer passionate about building reliable, scalable and maintainable 
 | UI Automation | Playwright, Selenium WebDriver |
 | Programming | TypeScript, Java, JavaScript |
 | API Testing | Postman, REST Assured, Playwright API |
-| Frameworks | TestNG, Maven, Cucumber, POM |
+| Frameworks | TestNG, Maven, Cucumber, Page Object Model |
 | Database | SQL |
 | CI/CD & Version Control | Git, GitHub Actions |
-| Test Management | Jira, Xray, Zephyr |
+| Test Management | Jira, Xray, Zephyr, Confluence |
 | AI & Productivity | GitHub Copilot, ChatGPT, AI-assisted testing |
 | Domain Experience | Telecom OSS/BSS |
 
+---
+
 ### 🚀 Featured Projects
 
-**1. Playwright AI QA Framework**
+**1. AgenticQA Nexus | Playwright AI QA Framework**
 
-An AI-powered Quality Engineering platform built with Playwright and TypeScript, covering UI automation, API testing, intelligent failure analysis and governed AI agents.
+A Playwright and TypeScript-based Quality Engineering platform that combines UI, API and integration testing with execution intelligence.
+
+- Failure analysis and classification.
+- Historical execution tracking and flaky-test detection.
+- Cross-browser failure correlation.
+- Deterministic QA orchestration.
+- Provider-neutral AI architecture with human-review guardrails.
+- GitHub Actions CI and structured test reports.
 
 [View Repository](https://github.com/Bhavesh-Nama/playwright-ai-qa-framework)
 
-**2. Enterprise Multi-Agent Code Review**
+**2. Enterprise Multi-Agent Code Review Orchestrator**
 
-A multi-agent code review orchestrator using Claude Agent SDK, MCP, TypeScript, Zod and specialized AI agents.
+A TypeScript-based multi-agent code review system using Claude Agent SDK, MCP, Zod and specialized subagents.
+
+- Three specialized code-review subagents.
+- GitHub and ESLint MCP server configuration.
+- Structured output validation.
+- Retry, timeout and rate-limiting mechanisms.
+- JSON, Markdown and HTML review reports.
+- Unit testing and automated report generation.
 
 [View Repository](https://github.com/Bhavesh-Nama/enterprise-multi-agent-code-review)
 
-**3. Playwright API Automation**
+**3. Playwright API Automation Framework**
 
-API automation framework covering CRUD operations, authentication, API mocking, accessibility and visual testing, with GitHub Actions integration.
+A JavaScript-based API automation framework built with Playwright.
+
+- GET, POST, PUT and DELETE request testing.
+- Authentication testing and API mocking.
+- Dynamic test data generation using Faker.
+- Accessibility testing with Axe-Core.
+- Visual testing.
+- GitHub Actions CI/CD integration.
 
 [View Repository](https://github.com/Bhavesh-Nama/playwright-apiAutomation)
 
-**4. DemoQA Playwright Assessment**
+**4. DemoQA Playwright Assessment - Refactored**
 
-Playwright and TypeScript automation project for testing the DemoQA Practice Form.
+A refactored Playwright and TypeScript automation framework focused on clean architecture, maintainability and reliable test execution.
 
-[View Repository](https://github.com/Bhavesh-Nama/demoqa-playwright-assessment)
-
-**5. DemoQA Playwright Assessment - Refactored**
-
-Refactored Playwright automation framework focused on clean structure, reusable components and maintainability.
+- Page Object Model and reusable components.
+- Accessibility-first locator strategy.
+- Faker-based dynamic test data.
+- Positive and negative test scenarios.
+- Parallel-safe test execution.
+- GitHub Actions CI and HTML reporting.
 
 [View Repository](https://github.com/Bhavesh-Nama/demoqa-playwright-assessment-refactored)
+
+**5. DemoQA Playwright Assessment**
+
+A Playwright and TypeScript technical assessment project covering UI automation and JSON response validation.
+
+- Page Object Model design.
+- Externalized test data and reusable utilities.
+- Positive, negative and edge-case scenarios.
+- Three-retry mechanism and failure diagnostics.
+- HTML reports, screenshots, videos and traces.
+- Automated JSON/API response validation.
+
+[View Repository](https://github.com/Bhavesh-Nama/demoqa-playwright-assessment)
 
 ---
 
 ### 📊 What I Focus On
 
 - Building maintainable UI and API automation frameworks.
-- Improving regression testing efficiency.
+- Improving test coverage and regression efficiency.
 - Designing reusable test components and automation utilities.
-- Exploring AI-assisted test design and failure analysis.
-- Integrating automated testing into CI/CD workflows.
+- Performing functional, integration and regression testing.
+- Analyzing failures using structured test execution evidence.
+- Exploring AI-assisted test design and intelligent QA workflows.
+- Integrating automated testing into CI/CD pipelines.
 
 ---
 
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bhavesh-kumar-nama/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Bhavesh-Nama)
 
-**Thanks for visiting my profile!**
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge)](https://bold.pro/my/bhavesh-kumarnama)
+
+---
+
+**Thanks for visiting my profile!** ⭐
